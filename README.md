@@ -1,6 +1,8 @@
 # sculpt-cursor-hide
 Hide cursor in sculpt mode
 
+  Based on yunisio suggestion https://blender.community/c/rightclickselect/Btdbbc/
+
   When called from search it can hide cursor in Sculpt mode when mouse over View3d and bring it back over other areas.
 
 ## bugs
